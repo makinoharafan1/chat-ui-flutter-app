@@ -1,4 +1,4 @@
-# Chat Flutter app
+# Chat UI Flutter app
 
 ## WSL2 + Flutter + Android Emulator (for own usage)
 
